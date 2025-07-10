@@ -63,6 +63,25 @@ function Projects() {
                         "https://github.com/NashRudiak/compilerunireup"
                     )}
                     {ListEntry(
+                        "Database Refresher",
+                        null,
+                        <>
+                        <p>
+                            A small program which I created to explore using a MySQL database. The project was not completed, but I may
+                            come back at a later date to expand upon it. At the moment it has a select for the getting the current year's
+                            table, and a query to add in a new entry to the database. As for why it stopped it was mainly resolving technical
+                            debt and page formatting burning me out.
+                        </p>
+                        <p>
+                            It is made of 2 components, a frontend with Javascript and HTML/CSS, and a backend in Flask. The frontend does some
+                            preparation and is a rather basic page with a form and table. While there is some checking on form inputs it is mostly 
+                            to interface with the database. The backend is for interfacing with the database, and is a Flask program that runs on a 
+                            local host. Additionally, incoming data is cleaned up to prevent backend errors.
+                        </p>
+                        </>,
+                        "https://github.com/NashRudiak/dbrefresher"
+                    )}
+                    {ListEntry(
                         "Buffer and Env exploit demo",
                         <ul><li>Will require permission to view code, adaptation of provided code</li></ul>,
                         <>

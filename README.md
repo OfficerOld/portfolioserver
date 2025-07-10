@@ -1,7 +1,8 @@
-# Getting Started with Create React App
+# A Personal Portfolio Website
 
 Welcome! This is the code page for my personal portfolio website. This website was designed from scratch while
-trying to do as much as I could by myself. This included not only content but making my own custom modules 
+trying to do as much as I could by myself. This included not only content but making my own custom modules.
+You can actually see the website by going to [nashrudiak.ca](nashrudiak.ca)
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
