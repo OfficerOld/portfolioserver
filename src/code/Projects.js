@@ -27,7 +27,7 @@ function Projects() {
                             all user actions and acts as a framework which I can expand in the future should I desire.
                         </p>
                         </>,
-                        "https://github.com/NashRudiak/portfolioserver"
+                        "https://github.com/OfficerOld/portfolioserver"
                     )}
                     {ListEntry(
                         "Java Compiler",
@@ -60,7 +60,7 @@ function Projects() {
                             generalize the process. Additionally involved usage of a stack for memory.
                         </p>
                         </>,
-                        "https://github.com/NashRudiak/compilerunireup"
+                        "https://github.com/OfficerOld/compilerunireup"
                     )}
                     {ListEntry(
                         "Database Refresher",
@@ -79,7 +79,7 @@ function Projects() {
                             local host. Additionally, incoming data is cleaned up to prevent backend errors.
                         </p>
                         </>,
-                        "https://github.com/NashRudiak/dbrefresher"
+                        "https://github.com/OfficerOld/dbrefresher"
                     )}
                     {ListEntry(
                         "Buffer and Env exploit demo",
@@ -103,7 +103,7 @@ function Projects() {
                             changing the environment variable it allows for a custom script to be run instead of the usual actions.
                         </p>
                         </>,
-                        "https://github.com/NashRudiak/bufenvexploitunireup"
+                        "https://github.com/OfficerOld/bufenvexploitunireup"
                     )}
                     {ListEntry(
                         "Adapt rotating cube with OpenCL",
@@ -122,7 +122,7 @@ function Projects() {
                             workers that you can perform the matrix operation at the same time.
                         </p>
                         </>,
-                        "https://github.com/NashRudiak/adaptopenclunireup"
+                        "https://github.com/OfficerOld/adaptopenclunireup"
                     )}
                     {ListEntry(
                         "AWS CMD Bucket interface",
@@ -139,7 +139,7 @@ function Projects() {
                             and navigation through the storage space.
                         </p>
                         </>,
-                        "https://github.com/NashRudiak/awscliunireup"
+                        "https://github.com/OfficerOld/awscliunireup"
                     )}
                     {ListEntry(
                         "Azure and GCloud VM CMD Interface",
@@ -163,7 +163,7 @@ function Projects() {
                             is very similar to the original Azure one.
                         </p>
                         </>,
-                        "https://github.com/NashRudiak/azuregcpvmunirep"
+                        "https://github.com/OfficerOld/azuregcpvmunirep"
                     )}
                     {ListEntry(
                         "Image Toolkit Library",
@@ -182,7 +182,7 @@ function Projects() {
                             such as the faster Nearest Neighbour algorithm against Bilinear Interpolation.
                         </p>
                         </>,
-                        "https://github.com/NashRudiak/imagetoolboxunirep"
+                        "https://github.com/OfficerOld/imagetoolboxunirep"
                     )}
                 </ul>
             </div>
